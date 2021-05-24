@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nana7-bot
 - 👀 I’m interested in Aritfificial Intelligence softwares and hardware
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ai and automating projects
 - 📫 How to reach me on instagram might.mike7
 
