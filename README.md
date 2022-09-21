@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @Nana7-bot.............
-- 👀 I’m interested in mobile and web development...........
-- 🌱 I’m currently learning Web 3.0...............
-- 💞️ I’m looking to collaborate with Flutter and web developers......
-- 📫 How to reach me on \instagram==>might.mike07 or \email==>nanaadams246@gmail.com..........
--
+# Hello, I'm Michael Adams 👋
 
-<!---
-Nana7-bot/Nana7-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+
+Coding enthusiast with some knowledge in App and Web Development!
+
+## 🔗 Follow me -- Links
+
+[![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLU4yityCjunGfLbnF2R41w)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-nana-adams/)
+[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mighty.mike07/)
+
+## 🛠 Tools I can use
+
+Flutter, Dart, , Javascript, Node, React, Next, HTML, CSS, Firebase, MongoDB, MySQL
