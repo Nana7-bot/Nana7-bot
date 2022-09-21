@@ -12,4 +12,8 @@ Coding enthusiast with some knowledge in App and Web Development!
 
 ## 🛠 Tools I can use
 
-Flutter, Dart, , Javascript, Node, React, Next, HTML, CSS, Firebase, MongoDB, MySQL
+Python, 
+Flutter, Dart,
+Javascript, HTML, CSS, 
+Node, React, Next,
+Firebase, MongoDB, MySQL
