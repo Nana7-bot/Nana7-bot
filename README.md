@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Coding enthusiast with some knowledge in App and Web Development!
+Coding enthusiast with some knowledge in Mobile and Web Apps Development!
 
 ## 🔗 Follow me -- Links
 
