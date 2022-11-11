@@ -4,6 +4,12 @@
 
 Coding enthusiast with some knowledge in Mobile and Web Apps Development!
 
+telescope A Software Engineer and contributing to frontend in web and mobile applications.
+
+seedling Exploring Machine Learning and Data Science.
+
+zap I create entertainment tech videos on Youtube.
+
 ## 🔗 Follow me -- Links
 
 [![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLU4yityCjunGfLbnF2R41w)
