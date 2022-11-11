@@ -6,8 +6,6 @@ Coding enthusiast with some knowledge in Mobile and Web Apps Development!
 
 A Software Engineer and contributing to frontend in web and mobile applications.
 
-Exploring Machine Learning and Data Science.
-
 I create entertainment tech videos on Youtube.
 
 ## 🔗 Follow me -- Links
