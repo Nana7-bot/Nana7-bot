@@ -1,14 +1,14 @@
-# Hello, I'm Michael Adams 👋
+# Hello, Mighty Mike here 👋
 
 ## 🚀 About Me
 
 Coding enthusiast with some knowledge in Mobile and Web Apps Development!
 
-telescope A Software Engineer and contributing to frontend in web and mobile applications.
+A Software Engineer and contributing to frontend in web and mobile applications.
 
-seedling Exploring Machine Learning and Data Science.
+Exploring Machine Learning and Data Science.
 
-zap I create entertainment tech videos on Youtube.
+I create entertainment tech videos on Youtube.
 
 ## 🔗 Follow me -- Links
 
